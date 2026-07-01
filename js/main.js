@@ -29,7 +29,7 @@ const quiz = [
             "HTML",
             "SQL"
         ],
-        correct: "JavaScript"
+      correct: "JavaScript"
     },
 
     {
